@@ -20,11 +20,6 @@ This is a web application for managing your movie lists, similar to YouTube play
 - Python 3.x
 - Virtualenv
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/movielibrary.git
-   cd movielibrary
 
 ### Live wesite link
   - https://movie-library-sd00.onrender.com/login
